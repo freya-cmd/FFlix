@@ -18,7 +18,7 @@
                 <div class="header">
                     <img src="assets/images/logo.png" title="Logo" alt="Site logo" />
                     <h3>Sign In</h3>
-                    <span>to continue</span>
+                    <span>to continue </span>
                 </div>
 
                 <form method="POST">
